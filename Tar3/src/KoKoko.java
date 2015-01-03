@@ -10,6 +10,13 @@ public class KoKoko {
 		// todo: loo
 
 		SetX1(this.x1);
+
+		aaa(1, "fdfs");
+	}
+
+	private void aaa(int i, String string) {
+		// TODO Auto-generated method stub
+
 	}
 
 	private void SetX1(int x12) {
@@ -19,6 +26,7 @@ public class KoKoko {
 
 	public int getX1() {
 		return x1;
+
 	}
 
 	public void setX1(int x1) {
