@@ -14,7 +14,7 @@ public class KoKoko {
 		aaa(1, "fdfs");
 
 		int x = fdsfs(1, 2);
-		
+		// new one
 		// TODO: fdsfsd
 	}
 
