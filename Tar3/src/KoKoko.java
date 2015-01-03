@@ -8,7 +8,7 @@ public class KoKoko {
 		this.x1 = 1;
 		// TODO: find new
 		// todo: loo
-
+// ddd
 		SetX1(this.x1);
 
 		aaa(1, "fdfs");
