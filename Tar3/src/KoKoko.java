@@ -12,6 +12,15 @@ public class KoKoko {
 		SetX1(this.x1);
 
 		aaa(1, "fdfs");
+
+		int x = fdsfs(1, 2);
+		
+		// TODO: fdsfsd
+	}
+
+	private int fdsfs(int i, int j) {
+		// TODO Auto-generated method stub
+		return i + j;
 	}
 
 	private void aaa(int i, String string) {
