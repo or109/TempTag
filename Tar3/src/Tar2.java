@@ -9,7 +9,9 @@ import org.apache.hadoop.mapreduce.lib.input.TextInputFormat;
 import org.apache.hadoop.mapreduce.lib.output.FileOutputFormat;
 import org.apache.hadoop.mapreduce.lib.output.TextOutputFormat;
 
-
+// IAM AFTER TAG13-1 !!!! XDDD
+// use it ! 
+// all bugs !!!
 
 public class Tar2 {
 
