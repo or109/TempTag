@@ -13,6 +13,11 @@ import org.apache.hadoop.mapreduce.lib.output.TextOutputFormat;
 
 public class Tar2 {
 
+	// fix the bug in the master r!!!
+	// fix the bug in the master r!!!
+	// fix the bug in the master r!!!
+	// fix the bug in the master r!!!
+	
     public static void main(String[] args) throws Exception
     {
         Configuration conf = new Configuration();
