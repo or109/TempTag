@@ -6,7 +6,7 @@ public class KoKoko {
 	public KoKoko() {
 		// TODO Auto-generated constructor stub
 		this.x1 = 1;
-		// TODO: find new
+		// TODO: find new111
 		// todo: loo
 		// 	ddd
 		SetX1(this.x1);
